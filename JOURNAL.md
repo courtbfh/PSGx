@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> PSGx: A high-precision piezo signal generator featuring advanced voltage regulation and flexible waveform shaping, powered by an FPGA-based custom PID control module.
+> PSGx: A high-precision hybrid signal generator featuring a 170 V analog piezo channel with flexible waveform shaping and a high-speed analog PID channel. Supervised by an MCU with digital potentiometers for remote tuning, it includes wireless Bluetooth telemetry and dedicated oscilloscope test points for comprehensive monitoring without an onboard display..
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
